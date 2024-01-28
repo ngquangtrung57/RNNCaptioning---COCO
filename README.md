@@ -9,7 +9,7 @@ This project explores the capabilities of Recurrent Neural Networks (RNNs) and a
 ## Getting Started
 
 ### Prerequisites
-Ensure you have installed the COCO dataset. You can follow the instructions provided here https://gist.github.com/mkocabas/a6177fc00315403d31572e17700d7fd9
+Ensure you have installed the COCO dataset. You can follow the instructions provided [here](https://gist.github.com/mkocabas/a6177fc00315403d31572e17700d7fd9)
 Ensure you have Python 3.6+ installed on your system. You can install the required packages using the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
